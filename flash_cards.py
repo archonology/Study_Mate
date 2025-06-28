@@ -20,7 +20,8 @@ cards = {
      "type": "type(object)",
     "join": "''.join(iterable)",
     "rstrip": " string.rstrip()/ remove white space or escape char at the end of a string",
-    "append" : "list.append(item)"
+    "append" : "list.append(item)",
+    "random": "Must be imported. gives access to random.shuffle(), random.random(), random.randint(), random.choices(), and more."
 }
 
 # cards = {
